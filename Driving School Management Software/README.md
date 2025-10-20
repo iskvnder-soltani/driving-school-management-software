@@ -29,7 +29,7 @@ A comprehensive Python desktop application for managing driving school operation
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/driving-school-management-software.git
+   git clone https://github.com/iskvnder-soltani/driving-school-management-software.git
    cd driving-school-management-software
    ```
 
@@ -175,3 +175,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For support or questions, please open an issue in the GitHub repository.
+
